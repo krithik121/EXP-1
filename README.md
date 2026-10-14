@@ -43,31 +43,38 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL:
+a.   KVL:<img width="1012" height="697" alt="CIRCUIT KVL KCL ECP 1" src="https://github.com/user-attachments/assets/0f3e42c8-5b60-45bc-b411-ec200a609e9f" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="1012" height="697" alt="CIRCUIT KVL KCL ECP 1" src="https://github.com/user-attachments/assets/0054367a-89b7-48bb-a33c-e8ec08c5e19a" />
+
  
 
 Calculation:
 
-a.   KVL:
+a.   KVL:<img width="1600" height="690" alt="bee exp1 kvl" src="https://github.com/user-attachments/assets/0b3887c1-f1a1-4d4d-b601-ce9b44a8ac77" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="1600" height="753" alt="beee exp 1kcl" src="https://github.com/user-attachments/assets/7ee989f2-9a60-4eea-897d-c520a588255a" />
+
+
 
 
 
 
 Tabulation:
 
-a.   KVL:
+a.   KVL:<img width="1248" height="1599" alt="exp 1 kvl" src="https://github.com/user-attachments/assets/4313ce69-526f-4b78-92eb-694e3045d3a2" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="928" height="1600" alt="exp 1kcl" src="https://github.com/user-attachments/assets/0d072857-230d-4571-8b7d-acc73576b3e2" />
+
 
 
 
